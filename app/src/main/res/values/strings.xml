@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app-sbux</string>
+    <string name="hello">Halo,</string>
+    <string name="create_account">Buat Akun Terlebih Dulu!</string>
+    <string name="login_account">Selamat Datang Kembali!</string>
+    <string name="first_name">First Name</string>
+</resources>
